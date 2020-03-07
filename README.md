@@ -1,5 +1,8 @@
 # Sixth-Sence-Robot
 
+The word sixth sence means this robot(which is simply car type robot) can recognize the images and track the objects with the help of image processing and machine learning algorithms through web camera and move according to that instructions.I use an arduino for giving direction to the robot.Further i want to make this robot fully autonomous by implementing neural network.
+
+
 
 
 
